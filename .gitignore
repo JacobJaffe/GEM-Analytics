@@ -1,4 +1,3 @@
 .DS_Store
 gem-log-export
-*.vscode
 *.pyc
